@@ -1,2 +1,2 @@
 # Redstore-
-Redstore is an e-commerce website offering the seamless shopping Experience
+Redstore is an e-commerce platform offering the seamless shopping Experience
